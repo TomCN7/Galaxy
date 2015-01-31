@@ -87,6 +87,8 @@
     <ClInclude Include="CAbilStop.h" />
     <ClInclude Include="CAbilTransport.h" />
     <ClInclude Include="CAbilWarpTrain.h" />
+    <ClInclude Include="CActor.h" />
+    <ClInclude Include="CActorModel.h" />
     <ClInclude Include="CBehavior.h" />
     <ClInclude Include="CBehaviorAttribute.h" />
     <ClInclude Include="CBehaviorBuff.h" />
