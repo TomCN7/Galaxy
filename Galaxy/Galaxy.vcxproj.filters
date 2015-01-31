@@ -70,10 +70,130 @@
     <ClInclude Include="CAbilWarpTrain.h">
       <Filter>Ability</Filter>
     </ClInclude>
+    <ClInclude Include="CBehavior.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorAttribute.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorBuff.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorClickResponse.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorConjoined.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorPowerSource.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorPowerUser.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorResource.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorReveal.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorSpawn.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorVeterancy.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CBehaviorWander.h">
+      <Filter>Behavior</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffect.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectApplyBehavior.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectApplyForce.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectCancelOrder.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectCreateHealer.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectCreatePersistent.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectCreateUnit.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectDamage.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectEnumArea.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectEnumMagazine.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectEnumTransport.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectIssueOrder.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectLaunchMissile.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectModifyPlayer.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectModifyUnit.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectRedirectMissile.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectReleaseMagazine.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectRemoveBehavior.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectReturnMagazine.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectSet.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectSwitch.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectTeleport.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectTransferBehavior.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectUseCalldown.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="CEffectUseMagazine.h">
+      <Filter>Effect</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Ability">
       <UniqueIdentifier>{89bbbb70-b7d1-4329-b36d-3ab22aff072a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Behavior">
+      <UniqueIdentifier>{27b59f11-ed57-4376-8de5-f1f2298d11f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Effect">
+      <UniqueIdentifier>{aa2f71e5-e113-4617-ba0a-58c8a66728d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Actor">
+      <UniqueIdentifier>{72c4a187-7977-4e1d-bb72-e487036e54ab}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
