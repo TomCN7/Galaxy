@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Galaxy", "Galaxy\Galaxy.vcxproj", "{7766E234-3536-43B1-8256-30EDA72679DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7766E234-3536-43B1-8256-30EDA72679DA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7766E234-3536-43B1-8256-30EDA72679DA}.Debug|Win32.Build.0 = Debug|Win32
+		{7766E234-3536-43B1-8256-30EDA72679DA}.Release|Win32.ActiveCfg = Release|Win32
+		{7766E234-3536-43B1-8256-30EDA72679DA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
