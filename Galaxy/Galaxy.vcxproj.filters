@@ -1,17 +1,79 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    <ClInclude Include="CAbil.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilAttack.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilAugment.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilBattery.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilBeacon.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilBehavior.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilBuild.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilEffect.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilHarvest.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilInteract.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilInventory.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilMerge.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilMorph.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilMove.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilPawn.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilProgress.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilQueue.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilQueueable.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilRally.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilRedirect.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilStop.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilTransport.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="CAbilWarpTrain.h">
+      <Filter>Ability</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Ability">
+      <UniqueIdentifier>{89bbbb70-b7d1-4329-b36d-3ab22aff072a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

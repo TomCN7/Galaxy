@@ -64,6 +64,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CAbil.h" />
+    <ClInclude Include="CAbilAttack.h" />
+    <ClInclude Include="CAbilAugment.h" />
+    <ClInclude Include="CAbilBattery.h" />
+    <ClInclude Include="CAbilBeacon.h" />
+    <ClInclude Include="CAbilBehavior.h" />
+    <ClInclude Include="CAbilBuild.h" />
+    <ClInclude Include="CAbilEffect.h" />
+    <ClInclude Include="CAbilHarvest.h" />
+    <ClInclude Include="CAbilInteract.h" />
+    <ClInclude Include="CAbilInventory.h" />
+    <ClInclude Include="CAbilMerge.h" />
+    <ClInclude Include="CAbilMorph.h" />
+    <ClInclude Include="CAbilMove.h" />
+    <ClInclude Include="CAbilPawn.h" />
+    <ClInclude Include="CAbilProgress.h" />
+    <ClInclude Include="CAbilQueue.h" />
+    <ClInclude Include="CAbilQueueable.h" />
+    <ClInclude Include="CAbilRally.h" />
+    <ClInclude Include="CAbilRedirect.h" />
+    <ClInclude Include="CAbilStop.h" />
+    <ClInclude Include="CAbilTransport.h" />
+    <ClInclude Include="CAbilWarpTrain.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
