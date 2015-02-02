@@ -1,0 +1,4 @@
+class CActorSite : public CActorBearings
+{
+
+};

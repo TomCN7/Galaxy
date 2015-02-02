@@ -187,6 +187,15 @@
     <ClInclude Include="CActorModel.h">
       <Filter>Actor</Filter>
     </ClInclude>
+    <ClInclude Include="CActorRange.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="CActorSite.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
+    <ClInclude Include="CActorSound.h">
+      <Filter>Actor</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Ability">
